@@ -1,0 +1,3 @@
+New-Item backend\.gitkeep -ItemType File
+New-Item frontend-web\.gitkeep -ItemType File
+New-Item docs\.gitkeep -ItemType File
